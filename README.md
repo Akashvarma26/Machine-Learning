@@ -1,1 +1,1 @@
-Creating a resporatory for ML algorithms
+Creating a respository for ML algorithms
